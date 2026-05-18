@@ -1,2 +1,7 @@
-# demo-darse-propiedades
-Demo web para Darse Propiedades — diseñada por eterlab.
+# Darse Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
